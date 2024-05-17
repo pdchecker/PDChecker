@@ -8,7 +8,7 @@ An automated security analysis framework for identifying the three vulnerabiliti
 2. build from the source code
 
 ```bash
-git clone git@github.com:pdchecker/PDChecker.git
+git clone https://github.com/pdchecker/PDChecker.git
 cd PDChecker
 make install
 make build
